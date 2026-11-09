@@ -1,0 +1,6 @@
+[
+  {"id":"r1","operator_id":null,"reviewer_name":"Aarav","reviewer_location":"Bangalore","business_name":null,"reviewer_type":"traveller","rating":5,"body":"Found a rafting operator in Rishikesh in two minutes and called them directly. No agent, no markup.","is_published":true,"created_at":"2026-08-10T00:00:00Z"},
+  {"id":"r2","operator_id":null,"reviewer_name":"Meera","reviewer_location":"Chennai","business_name":null,"reviewer_type":"traveller","rating":5,"body":"Used it for a Kudremukh trek. The operator was exactly who the listing said.","is_published":true,"created_at":"2026-08-02T00:00:00Z"},
+  {"id":"r3","operator_id":null,"reviewer_name":"Rohan","reviewer_location":"Manali","business_name":"Himalayan Trails","reviewer_type":"operator","rating":null,"body":"We get enquiries straight from travellers. Nobody takes a cut. That is rare.","is_published":true,"created_at":"2026-07-25T00:00:00Z"},
+  {"id":"r4","operator_id":null,"reviewer_name":"Priya","reviewer_location":"Pune","business_name":null,"reviewer_type":"traveller","rating":4,"body":"Good directory. Would love more filters, but the operators were real and responsive.","is_published":true,"created_at":"2026-07-15T00:00:00Z"}
+]
